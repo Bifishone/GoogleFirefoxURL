@@ -191,8 +191,8 @@ results/
 
 默认配置（可在代码中修改）：
 
-- **发件人**：1794686508@qq.com
-- **收件人**：shenghui3301@163.com
+- **发件人**：xxxxx@qq.com
+- **收件人**：xxxxxx@163.com
 - **SMTP 服务器**：[smtp.qq.com](https://smtp.qq.com/)
 - **SMTP 端口**：587
 
@@ -268,4 +268,5 @@ copies or substantial portions of the Software.
 
 
 ⭐ 如果这个工具对您有帮助，请给项目点个 Star 支持一下！ ⭐
+
 
