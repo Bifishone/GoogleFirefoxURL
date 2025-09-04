@@ -655,9 +655,9 @@ if __name__ == "__main__":
 
     # 发送汇总邮件
     email_config = {
-        "sender_email": "1794686508@qq.com",
-        "sender_password": "busnjcluyxtlejgc",
-        "receiver_email": "shenghui3301@163.com",
+        "sender_email": "xxx@qq.com",
+        "sender_password": "xxx",
+        "receiver_email": "xxx@163.com",
         "subject": "📧 Chrome的URL信息收集工作已完成！",
         "content": f"""
         您好！尊敬的辉小鱼先生！
@@ -668,9 +668,10 @@ if __name__ == "__main__":
         - 普通URL总数：{total_regular_urls}
         - 文档URL总数：{total_document_urls}
 
-        如果你收到了这封邮件，说明Google-URL-Search.py脚本已运行完毕！
+        如果你收到了这封邮件，说明GoogleURLSearch.py脚本已运行完毕！
         祝您挖洞愉快，必出高危哦~~~
         GoogleFirefoxURL 邮件助手
         """
     }
+
     send_email(**email_config)
