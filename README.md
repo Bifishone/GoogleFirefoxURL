@@ -1,6 +1,7 @@
 # 🌊 GoogleFirefoxURL - 智能双引擎 URL 爬取工具
 
-![test01](assets/test01.png)
+<img width="1277" height="750" alt="image02" src="https://github.com/user-attachments/assets/b2347ccd-5030-40db-928f-c5948fb4a2ea" />
+
 
 GoogleFirefoxURL 是一套基于 Selenium 的 URL 智能爬取解决方案，包含`GoogleURL.py`和`FireFoxURL.py`两个核心工具，分别针对 Google 和 DuckDuckGo 搜索引擎，帮助您高效收集指定域名下的网络资源。
 
@@ -260,6 +261,7 @@ copies or substantial portions of the Software.
 专注于网络信息收集与数据分析工具开发，致力于提供高效、可靠的网络爬虫解决方案。
 
 ------
+
 
 
 
