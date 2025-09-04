@@ -1,0 +1,14 @@
+# 核心依赖包
+selenium>=4.0.0
+colorama>=0.4.4
+
+# GoogleURL.py所需依赖
+tldextract>=3.2.0
+
+# 邮件发送依赖
+smtplib>=0.1.1
+email>=4.0.3
+
+# 可选依赖（提升稳定性）
+urllib3>=1.26.7
+python-dotenv>=0.19.2
