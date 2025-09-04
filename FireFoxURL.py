@@ -53,7 +53,7 @@ EMAIL_CONFIG = {
     您好！尊敬的辉小鱼先生！
 
     关于Firefox的URL收集工作已全面完成！
-    如果你收到了这封邮件，说明FireFox-URL-Search.py脚本已运行完毕！
+    如果你收到了这封邮件，说明FireFoxURLSearch.py脚本已运行完毕！
 
     祝您挖洞愉快，必出高危哦~~~
     GoogleFirefoxURL 邮件助手
@@ -421,3 +421,4 @@ if __name__ == "__main__":
         print(traceback.format_exc())
 
         # input("按任意键退出...")
+
