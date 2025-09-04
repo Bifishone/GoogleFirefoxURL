@@ -69,7 +69,7 @@ def print_signature():
                                                                                                              '38;5;39') + ' ' * 28 + colored(
         '║', '38;5;208')
     github_line = colored('║', '38;5;208') + '  ' + colored('GitHub:', '38;5;46', 'bold') + '    ' + colored(
-        'https://github.com/Bifish0', '38;5;39') + ' ' * 8 + colored('║', '38;5;208')
+        'https://github.com/Bifishone', '38;5;39') + ' ' * 8 + colored('║', '38;5;208')
     script_line = colored('║', '38;5;208') + '  ' + colored('Shell Script:', '38;5;46', 'bold') + '  ' + colored(
         'GoogleFirefoxURL.py', '38;5;39') + ' ' * 11+ colored('║', '38;5;208')
     bottom_border = colored('╚═══════════════════════════════════════════════╝', '38;5;208')
@@ -83,4 +83,5 @@ def print_signature():
 
 # 打印完整内容
 print(deer_art)
+
 print_signature()
